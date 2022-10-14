@@ -32,7 +32,7 @@ Neste projeto, pude colocar em prática meus conhecimentos em HTML e CSS e dar i
 
 ## Acesso a página
 
-Para ver o projeto pronto [clique aqui ](https://claricassia.github.io/mini-portifolio/)
+Para ver o projeto pronto [clique aqui ](https://claricassia.github.io/Mini-portifolio/)
 
 
 
