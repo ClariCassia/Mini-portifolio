@@ -11,7 +11,7 @@
 
 ## Sobre o projeto
 
- Esse Projeto faz parte da Semana MAPADEV WEEK do realizado pelo   [Dev-em-Dobro](https://www.youtube.com/c/DevemDobro "Site da DevSuperior"), onde podemos desenvolver um mini portifólio totalmente customizavel onde pude dar meus toques pessoais colocar em prática todo o aprendizado até aqui.
+ Esse Projeto faz parte da Semana MAPADEV WEEK do realizado pelo   [Dev-em-Dobro](https://www.youtube.com/c/DevemDobro "Site da DevSuperior"), onde podemos desenvolver um mini portifólio totalmente customizavel onde pude colocar em prática todo o aprendizado até aqui.
 
 
  ## Layout 
