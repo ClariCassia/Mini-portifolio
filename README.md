@@ -11,7 +11,7 @@
 
 ## Sobre o projeto
 
- Esse Projeto faz parte da Semana MAPADEV WEEK realizado pelo   [Dev-em-Dobro](https://www.youtube.com/c/DevemDobro "Site da DevSuperior"), onde podemos desenvolver um mini portifólio totalmente customizavel onde pude colocar em prática todo o aprendizado até aqui.
+ Esse projeto faz parte da semana MAPADEV WEEK realizado pelo   [Dev-em-Dobro](https://www.youtube.com/c/DevemDobro "Site da DevSuperior"), onde podemos desenvolver um mini portifólio totalmente customizável onde pude colocar em prática todo o aprendizado até aqui.
 
 
  ## Layout 
@@ -27,7 +27,7 @@
 - JavaScript
 
 ## O que eu aprendi
-Neste projeto, pude colocar em prática meus conhecimentos em HTML e CSS e dar inicio com um projeto simples a imersão ao JS. 
+Neste projeto, pude colocar em prática meus conhecimentos em HTML e CSS e dar inicío com um projeto simples a imersão ao JS. 
 
 
 ## Acesso a página
