@@ -1,0 +1,144 @@
+body {
+    font-family: 'Source Code Pro', monospace;
+    background-image: url(../imagens/computador-codigo-programacao.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    color: var(--cor-texto);
+    font-size: 18px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+.cartao {
+    background-color: var(--cor-principal);
+    width: 370px;
+    box-shadow: 19px 20px 19px var(--cor-secundaria);
+    border-radius: 2px;
+    overflow: hidden;
+}
+
+.cartao .minhas-informacoes {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding-top: 20px;
+    gap: 10px;
+}
+
+.cartao .minhas-informacoes img {
+    border-radius: 50%;
+    border: 2px solid var(--cor-media);
+    box-shadow: 0 0 20px var(--cor-fraca);
+    width: 118px;
+    height: 118px;
+}
+
+.cartao .minhas-informacoes .nome {
+    font-size: 22px;
+}
+
+.cartao .minhas-informacoes .cargo {
+    font-size: 12px;
+}
+
+
+.cartao .conteudo {
+    margin-top: 20px;
+}
+
+.cartao .conteudo .abas {
+    display: flex;
+}
+
+.conteudo .abas .aba {
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    padding: 10px 0;
+    cursor: pointer;
+    transition: background-color 0.2s ease-in-out;
+    background-color: var(--cor-principal);
+}
+
+.conteudo .abas img {
+    width: 30px;
+}
+
+.conteudo .abas .aba.selecionado {
+    background-color: var(--cor-media)
+}
+
+.conteudo .informacoes-abas {
+    background-color: var(--cor-media)
+}
+
+.conteudo .abas .aba:hover {
+    background-color: var(--cor-fraca);
+}
+
+.informacoes-abas .informacao {
+    min-height: 260px;
+    padding: 15px;
+    display: none;
+}
+
+.informacoes-abas .informacao.selecionado {
+    display: block;
+}
+
+.informacoes-abas .informacao .sub-titulo {
+    font-size: 16px;
+    margin-bottom: 25px;
+    text-align: center;
+}
+
+.informacoes-abas .informacao .descricao {
+    font-size: 12px;
+    max-height: 180px;
+    overflow: auto;
+    padding-right: 15px;
+}
+
+
+.informacao .descricao span {
+    color: var(--cor-destaque-texto);
+}
+
+.informacao .redes-sociais {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 25px;
+    max-height: 180px;
+    overflow: auto;
+}
+
+.redes-sociais li a {
+    width: 250px;
+    display: block;
+    color: var(--cor-padrao);
+    text-align: center;
+    padding: 10px;
+    font-size: 20px;
+    transition: opacty 0.3s ease-in-out;
+}
+
+.redes-sociais li a:hover {
+    opacity: 0.8;
+}
+
+.redes-sociais .curriculo {
+    background-color: #06c185;
+}
+
+.redes-sociais .linkedin {
+    background-color: #1d87bd;
+}
+
+.redes-sociais .github {
+    background-color: #545454;
+}

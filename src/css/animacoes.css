@@ -1,0 +1,26 @@
+
+@keyframes c-glowing-blue {
+    from {
+      box-shadow:       
+
+      0 0 2px var( --cor-principal),
+      0 0 5px var( --cor-principal),
+      0 0 10px var(--cor-secundaria),
+      0 0 15px var(--cor-secundaria),
+      0 0 20px var(--cor-secundaria),
+      0 0 25px var(--cor-secundaria)
+      
+    }
+  
+    to {
+      box-shadow:      
+      0 0px 25px var(--cor-secundaria),
+      0 0px 20px var(--cor-secundaria),
+      0 0px 15px var(--cor-secundaria),
+      0 0px 10px var(--cor-secundaria),
+      0 0px 5px var( --cor-principal),
+      0 0px 2px var( --cor-principal)   
+     }
+  }
+
+   
