@@ -25,6 +25,7 @@
 
 - HTML 
 - CSS 
+- JavaScript
 
 ## O que eu aprendi
 Neste projeto, pude colocar em prática meus conhecimentos em HTML e CSS e dar inicio com um projeto simples a imersão ao JS. 
