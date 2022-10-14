@@ -11,17 +11,14 @@
 
 ## Sobre o projeto
 
- Esse Projeto faz parte da Semana MAPADEV WEEK do realizado pelo   [Dev-em-Dobro](https://www.youtube.com/c/DevemDobro "Site da DevSuperior"), onde podemos desenvolver um mini portifólio totalmente customizavel onde pude colocar em prática todo o aprendizado até aqui.
+ Esse Projeto faz parte da Semana MAPADEV WEEK realizado pelo   [Dev-em-Dobro](https://www.youtube.com/c/DevemDobro "Site da DevSuperior"), onde podemos desenvolver um mini portifólio totalmente customizavel onde pude colocar em prática todo o aprendizado até aqui.
 
 
  ## Layout 
 
 <br>
 
-  <video autoplay loop>
-    <source src="src/imagens/redme.mp4" type="video/mp4">
-</video>
-
+ <img src="src/imagens/readme.gif" alt="gif-readme">
 
 ## Tecnologias utilizadas
 
