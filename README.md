@@ -18,7 +18,9 @@
 
 <br>
 
-  <img src="./src/gifs.readme/desktop-preview.gif" alt= "gif tela desktop">
+  <video autoplay loop>
+    <source src="src/imagens/redme.mp4" type="video/mp4">
+</video>
 
 
 ## Tecnologias utilizadas
