@@ -17,8 +17,7 @@
  ## Layout 
 
 <br>
-
- <img src="src/imagens/readme.gif" alt="gif-readme">
+ <img src="src/imagens/gif-readme.gif" alt="gif-readme">
 
 ## Tecnologias utilizadas
 
