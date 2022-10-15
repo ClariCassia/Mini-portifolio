@@ -124,7 +124,8 @@ body {
     text-align: center;
     padding: 10px;
     font-size: 20px;
-    transition: opacty 0.3s ease-in-out;
+    transition: opacty 0.9s ease-in-out;
+    font-size: 15px;
 }
 
 .redes-sociais li a:hover {
@@ -140,5 +141,5 @@ body {
 }
 
 .redes-sociais .github {
-    background-color: #545454;
+    background-color: var(--cor-fraca);
 }
